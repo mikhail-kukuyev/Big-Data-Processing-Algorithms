@@ -1,0 +1,2 @@
+L1 (data) 8-way set-associative, 64 sets, 32KB size
+L3 (unified) 12-way set-associative, 4096 sets, 32072KB size
